@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  server:
+    build:
+      context: deno
+      dockerfile: Dockerfile
+    volumes:
+      - ./linkstart:/app
+    ports:
+      - "8080:8080"
+    command: file_server -p 8080 /app
