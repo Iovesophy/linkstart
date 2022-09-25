@@ -37,6 +37,6 @@ $ make bundle
 $ make clean
 ```
 
-# Licnece
+# License
 GPL
 
