@@ -1,16 +1,18 @@
 # linkstart
 
 ## 概要
+
 インターンなどの研修課題用教材として作成した。
 
 ## 学べること
+
 - Docker
 - Docker Compose
 - Deno
 - JavaScript
 - Three.js
 
-## Deno file server with Docker Compoase
+## Deno file server with Docker Compose
 
 - build container
 
@@ -38,5 +40,5 @@ $ make clean
 ```
 
 # License
-GPL
 
+GPL
